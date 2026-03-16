@@ -1,88 +1,70 @@
-# 🚀 Elite Placement Training Repository
+# 🚀 Pravina's Elite Developer Training Journey
 
-Welcome to my **Elite Placement Training Learning Repository**.
-This repository contains my **training session materials, notes, and resources** collected during my placement preparation journey.
-
-The goal of this repository is to **document my learning progress and improve my technical skills in programming and problem solving**.
+Welcome to my **Developer Learning Repository**!
+This repository documents my **daily technical training sessions, notes, and learning progress** as I grow my skills in **Programming, Problem Solving, and Software Development**.
 
 ---
 
-## 📂 Repository Structure
+## 📚 About This Repository
 
-This repository is organized into **two training phases**:
+This project contains the **training materials and session notes** from my Elite Developer Training Program.
+It reflects my **continuous learning journey** in becoming a better **Software Developer**.
 
-```
-Elite-Placement-Training
-│
-├── Phase-1-Training
-│   ├── Session materials
-│   └── Practice resources
-│
-├── Phase-2-Training
-│   ├── Session materials
-│   └── Practice resources
-│
-└── README.md
-```
-
----
-
-## 📅 Training Sessions
-
-### 🔹 Phase 1 – Foundation Training
-
-This phase focuses on **basic programming concepts and logical thinking**.
-
-Topics Covered:
+✨ My focus areas include:
 
 * Programming Fundamentals
-* Control Structures
-* Logical Problem Solving
-* Debugging Techniques
-* Coding Practice
+* Problem Solving Techniques
+* Code Optimization
+* Debugging Strategies
+* Developer Best Practices
 
 ---
 
-### 🔹 Phase 2 – Advanced Training
+## 🗂️ Training Sessions
 
-This phase focuses on **advanced programming skills and placement preparation**.
+### 📅 January 2026
 
-Topics Covered:
+| Session    | Topic                | File        |
+| ---------- | -------------------- | ----------- |
+| Session 01 | Programming Basics   | 21-Jan-2026 |
+| Session 02 | Control Structures   | 22-Jan-2026 |
+| Session 03 | Problem Solving      | 23-Jan-2026 |
+| Session 04 | Data Handling        | 27-Jan-2026 |
+| Session 05 | Algorithms           | 28-Jan-2026 |
+| Session 06 | Code Practice        | 29-Jan-2026 |
+| Session 07 | Debugging Techniques | 30-Jan-2026 |
 
-* Advanced Problem Solving
-* Coding Optimization
-* Interview Preparation
-* Developer Skills
-* Project Practice
+### 📅 February 2026
+
+| Session    | Topic                | File        |
+| ---------- | -------------------- | ----------- |
+| Session 08 | Advanced Concepts    | 02-Feb-2026 |
+| Session 09 | Project Practice     | 03-Feb-2026 |
+| Session 10 | Code Optimization    | 04-Feb-2026 |
+| Session 11 | Developer Skills     | 05-Feb-2026 |
+| Session 12 | Final Training Notes | 06-Feb-2026 |
 
 ---
 
-## 🛠️ Skills Developed
+## 🛠️ Skills I'm Developing
 
-During this training, I am improving the following skills:
-
-💻 Programming
-🐍 Python Development
-☕ Java Development
+💻 Java Programming
+🐍 Python Programming
 🧠 Problem Solving
-⚡ Algorithmic Thinking
-📊 Logical Analysis
+⚡ Algorithm Thinking
+📊 Logical Reasoning
 
 ---
 
-## 🎯 Objective
+## 🎯 Goal
 
-The purpose of this repository is to:
-
-* Track my **placement preparation journey**
-* Store **training resources and notes**
-* Improve **coding and problem-solving skills**
+My goal is to **continuously improve my programming skills** and build a strong foundation in **software development and technology**.
 
 ---
 
-## 📈 Learning Philosophy
+## 📈 Learning Mindset
 
-> “Consistent practice and continuous learning build strong developers.”
+> “Small progress every day leads to big success in programming.”
 
 ---
 
@@ -91,5 +73,4 @@ The purpose of this repository is to:
 **Pravina Marimuthu**
 Aspiring Software Developer
 
-Passionate about **coding, learning new technologies, and solving real-world problems through software development.**
-
+💡 Passionate about **coding, learning new technologies, and building impactful software solutions.**
